@@ -1,0 +1,13 @@
+package com.example.PokedexComplete;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PokedexCompleteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PokedexCompleteApplication.class, args);
+	}
+
+}
